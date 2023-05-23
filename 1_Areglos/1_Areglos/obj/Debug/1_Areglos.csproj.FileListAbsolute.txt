@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\bin\Debug\1_Areglos.exe.config
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\bin\Debug\1_Areglos.exe
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\bin\Debug\1_Areglos.pdb
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\obj\Debug\1_Areglos.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\obj\Debug\1_Areglos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\obj\Debug\_1_Areglos.Form1.resources
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\obj\Debug\_1_Areglos.Properties.Resources.resources
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\obj\Debug\1_Areglos.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\obj\Debug\1_Areglos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\obj\Debug\1_Areglos.exe
+C:\Users\Alumno\Desktop\unidad 4\1_Areglos\1_Areglos\obj\Debug\1_Areglos.pdb
