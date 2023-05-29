@@ -1,0 +1,17 @@
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\bin\Debug\net6.0-windows\Arreglos_Matrices1.exe
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\bin\Debug\net6.0-windows\Arreglos_Matrices1.deps.json
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\bin\Debug\net6.0-windows\Arreglos_Matrices1.runtimeconfig.json
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\bin\Debug\net6.0-windows\Arreglos_Matrices1.dll
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\bin\Debug\net6.0-windows\Arreglos_Matrices1.pdb
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.Form1.resources
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.csproj.GenerateResource.cache
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.AssemblyInfoInputs.cache
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.AssemblyInfo.cs
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.dll
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\refint\Arreglos_Matrices1.dll
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.pdb
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\Arreglos_Matrices1.genruntimeconfig.cache
+C:\Users\Alumno\Pictures\Arreglos_Matrices1\Arreglos_Matrices1\obj\Debug\net6.0-windows\ref\Arreglos_Matrices1.dll

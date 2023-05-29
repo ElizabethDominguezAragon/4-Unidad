@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\bin\Debug\arreglos_Invertidos.exe.config
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\bin\Debug\arreglos_Invertidos.exe
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\bin\Debug\arreglos_Invertidos.pdb
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\obj\Debug\arreglos_Invertidos.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\obj\Debug\arreglos_Invertidos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\obj\Debug\arreglos_Invertidos.Form1.resources
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\obj\Debug\arreglos_Invertidos.Properties.Resources.resources
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\obj\Debug\arreglos_Invertidos.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\obj\Debug\arreglos_Invertidos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\obj\Debug\arreglos_Invertidos.exe
+C:\Users\Alumno\Desktop\unidad 4\arreglos_Invertidos\arreglos_Invertidos\obj\Debug\arreglos_Invertidos.pdb
